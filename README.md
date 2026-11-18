@@ -1,4 +1,4 @@
-# MISOfortune: A Tale of Woes Woven Through SPI
+# MISOfortune: A Tale Woven Through SPI
 
 Our team project on SPI (Serial Peripheral Interface), written in Verilog and verified in simulation with Vivado. There are four modules, one per team member. Each one has a single SPI master talking to several slaves, and each one shows a different side of the protocol.
 
